@@ -1,8 +1,10 @@
 0.0.0.0 33across.com
+0.0.0.0 3d70f.playfabapi.com
 0.0.0.0 3gppnetwork.org
 0.0.0.0 5aa25954e40ffb18984989b59487dfe054549e213a2e64a12187f8deb5a4cb5.us-east-1.prod.service.minerva.devices.a2z.com
 0.0.0.0 a-us00.kxden.com
 0.0.0.0 a.hilalinks.com
+0.0.0.0 a.lortchlnk.com
 0.0.0.0 a1887.dscq.akamai.net
 0.0.0.0 a2z.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -64,6 +66,7 @@
 0.0.0.0 config.ads.vungle.com
 0.0.0.0 config.inmobi.com
 0.0.0.0 consumabletv.com
+0.0.0.0 control-zoo-dtsprod.tvinteractive.tv
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 d.everestop.io
 0.0.0.0 data.flurry.com
@@ -87,6 +90,7 @@
 0.0.0.0 got.pubnative.net
 0.0.0.0 graphql.usercentrics.eu
 0.0.0.0 group3.sites.hscpscdn00.net
+0.0.0.0 gusarpt.adview.com
 0.0.0.0 gw.geoedge.be
 0.0.0.0 hsappstatic.net
 0.0.0.0 hscoscdn00.net
@@ -118,9 +122,11 @@
 0.0.0.0 mopub.com
 0.0.0.0 norm.jamfcloud.com
 0.0.0.0 notifier-configs.airbrake.io
+0.0.0.0 notify.rtbuniverse.com
 0.0.0.0 ntnsrv.com
 0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 o.ages.prismic.io.
+0.0.0.0 o4505522874089472.ingest.sentry.io
 0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 olayfans.com
 0.0.0.0 online-user-protector.com
@@ -147,6 +153,7 @@
 0.0.0.0 rt.applovin.com
 0.0.0.0 rtb-adingenious.com
 0.0.0.0 rubiconproject.com
+0.0.0.0 s-13.lortchlnk.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 safedk.com
@@ -161,6 +168,8 @@
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 spotify.com
 0.0.0.0 spotscenered.info
+0.0.0.0 ss6gtv-cdn-settings.appsflyersdk.com
+0.0.0.0 ss6gtv-launches.appsflyersdk.com
 0.0.0.0 statrys.com
 0.0.0.0 storjshare.io
 0.0.0.0 str(3lift.com)
@@ -173,10 +182,13 @@
 0.0.0.0 trc.contextualadv.com
 0.0.0.0 trc.contextualadv.com
 0.0.0.0 trckr.braveglobal.tv
+0.0.0.0 ts.amazon-adsystem.com
 0.0.0.0 tvinteractive.tv
 0.0.0.0 twiter.com
 0.0.0.0 unifiedbidding.ad.smaato.net
 0.0.0.0 unifiedbidding.ad.smaato.net
+0.0.0.0 use-cr.svr-algorix.com
+0.0.0.0 use02.trk.svr-algorix.com
 0.0.0.0 usercentrics.eu
 0.0.0.0 video.fbis1-1.fna.fbcdn.net
 0.0.0.0 vortex.hulu.com

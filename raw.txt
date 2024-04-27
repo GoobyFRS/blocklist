@@ -192,3 +192,15 @@ developers.facebook.com
 trc.contextualadv.com
 trc.contextualadv.com
 got.iad3rs0zone1.pubnative.net
+notify.rtbuniverse.com
+use-cr.svr-algorix.com
+use02.trk.svr-algorix.com
+gusarpt.adview.com
+a.lortchlnk.com
+s-13.lortchlnk.com
+control-zoo-dtsprod.tvinteractive.tv
+o4505522874089472.ingest.sentry.io
+ss6gtv-cdn-settings.appsflyersdk.com
+ss6gtv-launches.appsflyersdk.com
+3d70f.playfabapi.com
+ts.amazon-adsystem.com
