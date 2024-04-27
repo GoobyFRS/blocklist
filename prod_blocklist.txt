@@ -42,6 +42,7 @@
 0.0.0.0 audienceexposure.com
 0.0.0.0 az764295.vo.msecnd.net
 0.0.0.0 beacon-ams3.rubiconproject.com
+0.0.0.0 beacons5.gvt3.com
 0.0.0.0 bidmachine.io
 0.0.0.0 bis.tv.widgets.yahoo.com
 0.0.0.0 bldrdoc.gov
@@ -66,7 +67,10 @@
 0.0.0.0 cws-hulu.conviva.com
 0.0.0.0 d.everestop.io
 0.0.0.0 data.flurry.com
+0.0.0.0 dealczars.bing-shopping.microsoft-falcon.io
+0.0.0.0 dealextractor.azurefd.net
 0.0.0.0 dessaly.com
+0.0.0.0 developers.facebook.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 drift.com
@@ -79,6 +83,7 @@
 0.0.0.0 g2.com
 0.0.0.0 ggpht.com
 0.0.0.0 goooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle.com
+0.0.0.0 got.iad3rs0zone1.pubnative.net
 0.0.0.0 got.pubnative.net
 0.0.0.0 graphql.usercentrics.eu
 0.0.0.0 group3.sites.hscpscdn00.net
@@ -87,6 +92,8 @@
 0.0.0.0 hscoscdn00.net
 0.0.0.0 hubspot.com
 0.0.0.0 hulu.hb.omtrdc.net
+0.0.0.0 i7gflx-launches.appsflyersdk.com
+0.0.0.0 i7gflx-launches.appsflyersdk.com
 0.0.0.0 img1.wsimg.com
 0.0.0.0 in.appcenter.ms
 0.0.0.0 inner-active.mobi
@@ -113,7 +120,8 @@
 0.0.0.0 notifier-configs.airbrake.io
 0.0.0.0 ntnsrv.com
 0.0.0.0 nym1-ib.adnxs.com
-0.0.0.0 o.ages.prismic.io
+0.0.0.0 o.ages.prismic.io.
+0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 olayfans.com
 0.0.0.0 online-user-protector.com
 0.0.0.0 ortb.net
@@ -144,9 +152,12 @@
 0.0.0.0 safedk.com
 0.0.0.0 samsungapps.com
 0.0.0.0 sc-prod.net
+0.0.0.0 scontent.fbis1-1.fna.fbcdn.net
 0.0.0.0 scroogetoken.org
 0.0.0.0 securiti.ai
+0.0.0.0 shopping.bing-shopping.microsoft-falcon.io
 0.0.0.0 smres.zsxcloud.net
+0.0.0.0 sn-us11.aceex.io
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 spotify.com
 0.0.0.0 spotscenered.info
@@ -159,12 +170,15 @@
 0.0.0.0 time-A.timefreq.bldrdoc.gov
 0.0.0.0 tnc16-alisg.byteoversea
 0.0.0.0 trafficjunky.com
+0.0.0.0 trc.contextualadv.com
+0.0.0.0 trc.contextualadv.com
 0.0.0.0 trckr.braveglobal.tv
 0.0.0.0 tvinteractive.tv
 0.0.0.0 twiter.com
 0.0.0.0 unifiedbidding.ad.smaato.net
 0.0.0.0 unifiedbidding.ad.smaato.net
 0.0.0.0 usercentrics.eu
+0.0.0.0 video.fbis1-1.fna.fbcdn.net
 0.0.0.0 vortex.hulu.com
 0.0.0.0 vungle.com
 0.0.0.0 w.blueduckredapple.com
@@ -173,6 +187,7 @@
 0.0.0.0 www.g2.com
 0.0.0.0 www.getapp.com
 0.0.0.0 www.supportsages.com
+0.0.0.0 x.blueduckredapple.com
 0.0.0.0 x1.x.lencr.org
 0.0.0.0 xiaomi.com
 0.0.0.0 youtuube.com
