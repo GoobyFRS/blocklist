@@ -1,6 +1,6 @@
 # blocklist
 
-Goobs Curated Blocklist - There is nothing particularly special about it. When ads split through my other lists, I'll try and capture them here.
+Goobs Curated Blocklist - There is nothing particularly special about it. When ads slip past my other lists, I'll try and capture them here.
 
 Add the following URL to your Pi-Hole Adlist to use my blocklist.
 
