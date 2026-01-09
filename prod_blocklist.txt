@@ -217,7 +217,7 @@
 0.0.0.0 ss6gtv-launches.appsflyersdk.com
 0.0.0.0 statrys.com
 0.0.0.0 storjshare.io
-0.0.0.0 str(3lift.com)
+0.0.0.0 3lift.com
 0.0.0.0 supersonicads.com
 0.0.0.0 supportsages.com
 0.0.0.0 tc.tradetracker.com
