@@ -8,14 +8,16 @@ Add the following URL to your Pi-Hole Adlist to use my blocklist.
 https://raw.githubusercontent.com/GoobyFRS/blocklist/refs/heads/main/prod_blocklist.txt
 ```
 
-```url
+**Common Blocklist**
 
+```url
+https://raw.githubusercontent.com/GoobyFRS/blocklist/refs/heads/main/common-blacklist.txt
 ```
 
-**Whitelist Testing**
+**Common Whitelist Testing**
 
 ```url
-
+https://raw.githubusercontent.com/GoobyFRS/blocklist/refs/heads/main/common-whitelist.txt
 ```
 
 Enjoy!
